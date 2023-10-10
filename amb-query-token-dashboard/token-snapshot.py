@@ -53,7 +53,7 @@ next_page = ''
 page = 0
 while next_page != None:
     response = ListTokenBalances(params)
-    rows = '"token","address","balance,"datetime"\n'
+    rows = '"token","address","balance","datetime"\n'
     for h in response["tokenBalances"]:
         column_token_address = token
         column_token_info = h["ownerIdentifier"]["address"]
