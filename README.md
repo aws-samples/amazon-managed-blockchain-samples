@@ -1,11 +1,8 @@
-## My Project
+# Amazon Managed Blockchain Samples
 
-TODO: Fill this README out!
+Welcome to the Amazon Managed Blockchain Samples repository. 
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+- [ERC20 token dashboard](/amb-query-token-dashboard).
 
 ## Security
 
