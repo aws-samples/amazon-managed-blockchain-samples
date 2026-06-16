@@ -22,7 +22,7 @@
   "dependencies": {
     "@aws-cdk/aws-glue-alpha": "^2.102.0-alpha.0",
     "@aws-cdk/core": "^1.204.0",
-    "aws-cdk-lib": "2.102.0",
+    "aws-cdk-lib": "2.246.0",
     "constructs": "^10.0.0",
     "source-map-support": "^0.5.21"
   }
